@@ -5,9 +5,9 @@ template vue and parcel and typescript
 - typescript
 
 ## Usage
-```
+```sh
 git clone https://github.com/tomatoaiu/Class-Based-Vue-Parcel-TypeScript-Pack.git package
-cd vue-parcel-pack package
+cd package
 # case npm
 npm i
 npm run start      #access http://localhost:1234
