@@ -1,4 +1,4 @@
-# Vue-Parcel-TypeScript-Pack
+# Class-Based-Vue-Parcel-TypeScript-Pack
 template vue and parcel and typescript
 - vue
 - class based cmponent
@@ -6,7 +6,7 @@ template vue and parcel and typescript
 
 ## Usage
 ```
-git clone https://github.com/tomatoaiu/Vue-Parcel-TypeScript-Pack.git package
+git clone https://github.com/tomatoaiu/Class-Based-Vue-Parcel-TypeScript-Pack.git package
 cd vue-parcel-pack package
 # case npm
 npm i
